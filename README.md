@@ -14,8 +14,8 @@ ______________________________________________________________________
 ______________________________________________________________________
 Three key differences in weather between June and December:
 <br>
-<br>1) As seen in Figure 1 and 3. The avergae temperature in December is 71F and the avergae temperature in June is about 75F</br>
-<br>2) As seen in Figure 1 and 3. The min temperature in December is 56F and the min temperature in June is about 64F. The max temperature in December is 83F and the max temperature in June is about 85F </br>
+<br>1) As seen in Figure 1 and 3, the avergae temperature in December is 71F and the avergae temperature in June is about 75F</br>
+<br>2) As seen in Figure 1 and 3, the min temperature in December is 56F and the min temperature in June is about 64F. The max temperature in December is 83F and the max temperature in June is about 85F </br>
 <br>3) As seen Figure 1 and 3 and supported by 2) the STD in december temperature is higher (3.74) than the STD in June temperature (3.26)
 
 ![image](https://user-images.githubusercontent.com/103878061/197919517-2f8d969d-7b62-4e5a-ae1e-29fdcb0c7c9b.png)
@@ -40,11 +40,11 @@ ______________________________________________________________________
 ______________________________________________________________________
 MAIN SUMMARY:
 
-Quering our database and performing statistical anysis of our data. We can determine that the average temperature in June is higher than in Decemeber. We also determined there is a greater variance in temperature in December than in June as seen by the difference in the STD 
+Quering our database and performing statistical analysis of our data, we can determine the average temperature in June is higher than in Decemeber. We also determined there is a greater variance/deviation in temperature in December than in June as seen by the difference in the STD 
 
 2 ADDITIONAL QUERIES PERFORMED:
 <br>1) As seen in figures 5 and 6 and in my code, I queried the database to determine the precipitation in June and Decemeber  </br>
-<br>2) As seen in figures 7 and 8 and in my code, I used the .decribe() method to conduct simple statistical anysis of the precipitation in June and December  </br>
+<br>2) As seen in figures 7 and 8 and in my code, I used the .decribe() method to conduct simple statistical analysis of the precipitation data in June and December  </br>
 
 ![image](https://user-images.githubusercontent.com/103878061/197919696-7c191e53-ac0c-4fec-ab41-1c3e5218fac5.png)
 
